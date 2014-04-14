@@ -142,36 +142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.097225,
-          38.8859
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Northside Social",
-        "address": "3211 Wilson Blvd, Arlington, VA 22201"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.045067,
-          38.821598
-        ]
-      },
-      "properties": {
-        "marker-symbol": "bar",
-        "name": "Buzz Bakery Coffee & Lounge",
-        "address": "901 Slaters Lane, Alexandria, VA 22314"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -77.012659,
           38.915561
         ]
@@ -224,7 +194,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.031950,
+          -77.03195,
           38.911532
         ]
       }
@@ -234,8 +204,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0276460,
-          38.9007690
+          -77.027646,
+          38.900769
         ]
       },
       "properties": {
@@ -244,6 +214,6 @@
         "address": "1100 New York Ave NW",
         "note": "Ask the bartender for the password"
       }
-    }   
+    }
   ]
 }
