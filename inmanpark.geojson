@@ -1,6 +1,20 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Albert",
+        "address": "918 Austin Ave NE Atlanta, GA 30307",
+        "notes": "Excellent sandwiches and smoked wings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3575844168663,
+          33.76196572164142
+        ]
+      }
+    }
   ]
 }
